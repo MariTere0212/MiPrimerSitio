@@ -20,7 +20,7 @@
       <link>https://example.com/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://example.com/posts/creating-a-new-theme/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Ejemplo de modificación :D&lt;/p&gt;&#xA;&lt;p&gt;NOTA.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cuando hagamos una actualización, primero hacemos blogdown::serve_site (para mi archivo local)&lt;/li&gt;&#xA;&lt;li&gt;blogdown::build_site() para mi archivo&lt;/li&gt;&#xA;&lt;li&gt;en la consola git add.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Ejemplo de modificación :D&lt;/p&gt;&#xA;&lt;p&gt;NOTA.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cuando hagamos una actualización, primero hacemos blogdown::serve_site (para mi archivo local)&lt;/li&gt;&#xA;&lt;li&gt;Poner en la consola blogdown::build_site() para mi archivo y poder hacer el commit&lt;/li&gt;&#xA;&lt;li&gt;En la terminal poner  git add .&lt;/li&gt;&#xA;&lt;li&gt;En la parte del Git, poner todas las palomitas&lt;/li&gt;&#xA;&lt;li&gt;Dps hacer el commit, dejar el comentario y hacer el push&lt;/li&gt;&#xA;&lt;li&gt;Ya dps se visualiza en github y en netlify&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>(Hu)go Template Primer</title>
